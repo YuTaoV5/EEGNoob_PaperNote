@@ -1,6 +1,2 @@
-# PaperNote
-```
-git remote add origin https://github.com/YuTaoV5/PaperNote.git
-git branch -M main
-git push -u origin main
-```
+## All note need open with note software <Yank Note>, you can find this open sourse note software in git(just search yn ,you can find the project)
+
